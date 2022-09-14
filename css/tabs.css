@@ -75,3 +75,7 @@
   text-align: center;
   /* height: 100vh; */
 }
+
+.tabcontent>p {
+  text-align: justify;
+}
